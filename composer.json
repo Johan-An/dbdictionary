@@ -1,5 +1,5 @@
 {
-    "name": "tp/tp-dbdictionary",
+    "name": "village/tp-dbdictionary",
     "type": "library",
     "keywords": ["tp","mysql","dictionary"],
     "description": "A simple dictionary based on mysql database",

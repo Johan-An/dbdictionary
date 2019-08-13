@@ -1,10 +1,10 @@
 {
-    "name": "dbdictionary",
+    "name": "tp-dbdictionary",
     "description": "A simple dictionary based on mysql database",
-    "homepage": "https://github.com/firebase/php-jwt",
+    "homepage": "https://github.com/villagelover/dbdictionary.git",
     "authors": [
         {
-            "name": "Jack Ann",
+            "name": "villagelover",
             "email": "2432915935@qq.com",
             "role": "Developer"
         }

@@ -1,5 +1,7 @@
 {
-    "name": "tp-dbdictionary",
+    "name": "tp/tp-dbdictionary",
+    "type": "library",
+    "keywords": ["tp","mysql","dictionary"],
     "description": "A simple dictionary based on mysql database",
     "homepage": "https://github.com/villagelover/dbdictionary.git",
     "authors": [

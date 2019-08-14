@@ -2,8 +2,8 @@
 /**
  * @Author: jack ann
  * @Date:   2019-08-13 16:18:22
- * @Last Modified by:   angaozhao
- * @Last Modified time: 2019-08-14 14:39:17
+ * @Last Modified by:   sogubaby
+ * @Last Modified time: 2019-08-14 14:44:18
  */
 namespace dbdictionary;
 
@@ -158,6 +158,6 @@ class Database
         header("Content-Type:application/download");
         header('Content-Disposition: attachment;filename="数据字典.xls"'); //要生成的表名
         header("Content-Transfer-Encoding:binary");
-        $writer->save('php://output');
+        $writer->save('php://output'); 
     }
 }

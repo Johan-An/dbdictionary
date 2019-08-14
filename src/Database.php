@@ -2,8 +2,8 @@
 /**
  * @Author: jack ann
  * @Date:   2019-08-13 16:18:22
- * @Last Modified by:   sogubaby
- * @Last Modified time: 2019-08-14 14:44:18
+ * @Last Modified by:   angaozhao
+ * @Last Modified time: 2019-08-14 14:45:14
  */
 namespace dbdictionary;
 
@@ -111,6 +111,7 @@ class Database
         $tables = $this->selectTables();
         // Create new Spreadsheet object
         $spreadsheet = new Spreadsheet();
+        // 设置标题
         $spreadsheet->getActiveSheet()->setTitle('数据字典');
         // Add title
         $spreadsheet->setActiveSheetIndex(0);

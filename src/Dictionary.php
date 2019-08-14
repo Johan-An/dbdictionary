@@ -3,7 +3,7 @@
  * @Author: jack ann
  * @Date:   2019-08-13 16:18:22
  * @Last Modified by:   angaozhao
- * @Last Modified time: 2019-08-14 14:45:14
+ * @Last Modified time: 2019-08-14 15:13:14
  */
 namespace dbdictionary;
 
@@ -13,7 +13,7 @@ use think\Db;
 /**
  *
  */
-class Database
+class Dictionary
 {
     public function selectTables()
     {

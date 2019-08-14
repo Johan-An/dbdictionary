@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "dbdictionary": "src"
+            "dbdictionary\\": "src"
         }
     },
     "require-dev": {

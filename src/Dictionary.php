@@ -3,7 +3,7 @@
  * @Author: jack ann
  * @Date:   2019-08-13 16:18:22
  * @Last Modified by:   angaozhao
- * @Last Modified time: 2019-08-14 15:13:14
+ * @Last Modified time: 2019-08-15 10:19:13
  */
 namespace dbdictionary;
 
@@ -91,7 +91,8 @@ class Dictionary
         .c3{ width: 70px;}
         .c4{ width: 80px;}
         .c5{ width: 80px;}
-        .c6{ width: 270px;}
+        .c6{ width: 70px;}
+        .c7{ width: 270px;}
         </style>
         </head>
         <body>';

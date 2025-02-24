@@ -18,5 +18,4 @@ jobs:
       - name: DeepSeek Code Review
         uses: hustcer/deepseek-review@v1
         with:
-          chat-token: sk-xiqujxrcuygilypjlsyifanmssdkjibfcfeqfhuzpvwyrsur
-          base-url: https://api.siliconflow.cn
+          chat-token: sk-db3ab97f8ab94082b0b9b0ecdc302364
